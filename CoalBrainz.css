@@ -6,21 +6,21 @@ div {
     position: fixed;
     width: 98%;
     margin-top: -5px;
-    height: 50px;
+    height: 200px;
     background-color: #668284;
     opacity: 0.8;
 }
 #name {
     float:left;
     margin-left: 10px;
-    font-size: 16px;
+    font-size: 24px;
     font-family: Verdana, sans-serif;
     color: #ffffff;
 }
 #email {
     float:right;
     margin-right: 10px;
-    font-size: 16px;
+    font-size: 24px;
     font-family: Verdana, sans-serif;
     color: #ffffff;
 }
