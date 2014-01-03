@@ -7,13 +7,9 @@ div {
     box-shadow: 10px 10px 5px #ffffff inset;
 }
 span {
-    background-color: blue;
     height: 100px;
     width: 500px;
     position: relative;
-    border-color: white;
-    border-width: 5px;
-    border: dashed;
     align-content:center;
     bottom:5px;
 }
