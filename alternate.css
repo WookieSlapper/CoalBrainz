@@ -167,16 +167,21 @@ li {
 
 
 @media (max-width: 750px) {
-    #header {
-        height: 100px;
+    #header, #header h1, #header img {
+        height: 60px;
+        padding: 5px;
+        margin: 0;
     }
+
     #header, .navigation {
         position: inherit;
     }
+
     .navigation {
-        top: 100px;
+        top: 60px;
         float: left;
     }
+
     .right {
         margin-top: 10px;
     }
